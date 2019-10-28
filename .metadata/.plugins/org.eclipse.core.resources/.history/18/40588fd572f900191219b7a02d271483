@@ -1,0 +1,15 @@
+/**
+ *
+ */
+package jp.co.internous.action;
+
+/**
+ * @author testuser
+ *
+ */
+public class Main {
+
+	pubric static void main(String[] args){
+		System.out.println("Hello World");
+	}
+}
